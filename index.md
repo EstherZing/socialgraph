@@ -2,14 +2,23 @@
 
 We will analysis the guarrdian news. Web scraping is really really fun. 
 
-## Header 1
+## How many headlines per year are published in years 2005 to 2019?
 
 
 <img src="epi_wordcloud.png" width="600" height="400" />
 
-## header 2
+## What genres are they writing about these 15 years?
 
 
-### header 3
+## What are they writing abaout?
+
+
+## How are the networks for the most frequent words in the headline data?
+
+
+## How is the sentimental analysis ?
+
+
+
 
 
