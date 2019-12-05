@@ -4,7 +4,8 @@ We will analysis the guarrdian news. Web scraping is really really fun. I love H
 
 ## Header 1
 
-<img src="numberOfHline.png">
+<img src="numberOfHline.png" alt="drawing" width="200"/>
+
 
 ## header 2
 ### header 3
