@@ -4,7 +4,7 @@ We will analysis the guarrdian news. Web scraping is really really fun. I love H
 
 ## Header 1
 
-<img src="epi_wordcloud.png" alt="drawing" width="200"/>
+<img src="epi_wordcloud.png" alt="drawing" width="400"/>
 
 
 ## header 2
