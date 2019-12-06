@@ -10,7 +10,6 @@ We will analysis the guarrdian news. Web scraping is really really fun.
 
 <img src="numberOfHlineByGenre.png" width="500" height="300" />
 
-
 ## What are they writing abaout?
 <img src="data_subgenre.png" width="500" height="300" />
 
