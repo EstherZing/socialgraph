@@ -8,9 +8,9 @@ We will analysis the guarrdian news. Web scraping is really really fun.
 
 ## What genres are they writing about these 15 years?
 
-<img src="numberOfHlineByGenre.png" width="1000" height="300" />
+<img src="numberOfHlineByGenre.png" width="300" height="300" />
 
-<img src="data_subgenre.png" width="500" height="300" />
+<img src="data_subgenre.png" width="1000" height="300" />
 
 ## What are they writing abaout?
 
