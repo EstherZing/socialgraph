@@ -4,11 +4,11 @@ We will analysis the guarrdian news. Web scraping is really really fun.
 
 ## How many headlines per year are published in years 2005 to 2019?
 
-<img src="numberOfHlineperYear.png" width="500" height="300" />
+<img src="numberOfHlineperYear.png" width="400" height="300" />
 
 ## What genres are they writing about these 15 years?
 
-<img src="numberOfHlineByGenre.png" width="300" height="300" />
+<img src="numberOfHlineByGenre.png" width="400" height="300" />
 
 <img src="data_subgenre.png" width="1000" height="300" />
 
