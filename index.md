@@ -10,10 +10,16 @@ We will analysis the guarrdian news. Web scraping is really really fun.
 
 <img src="numberOfHlineByGenre.png" width="500" height="300" />
 
-## What are they writing abaout?
 <img src="data_subgenre.png" width="500" height="300" />
 
-numberOfHlineByGenre.png
+## What are they writing abaout?
+
+<img src="word_cloud_2009_test.png" width="500" height="300" />
+<img src="word_cloud_2010_test.png" width="500" height="300" />
+<img src="word_cloud_2013_test.png" width="500" height="300" />
+<img src="word_cloud_2015_test.png" width="500" height="300" />
+<img src="word_cloud_2017_test.png" width="500" height="300" />
+<img src="word_cloud_2018_test.png" width="500" height="300" />
 
 ## How are the networks for the most frequent words in the headline data?
 
